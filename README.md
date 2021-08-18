@@ -1,19 +1,9 @@
-# learn_rsa
+# RSA 暗号の教材
 
-## Project setup
-```
-npm install
-```
+RSA 暗号を実際に計算を行い、その面白さを体感して貰うための簡易的なアプリです。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+vue2 + TypeScript + composition-api + Vuetify で作成してます。
 
-### Compiles and minifies for production
-```
-npm run build
-```
+生成されたアプリは GitHub Pages で公開しています。
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+デモ　 → 　[https://codianz.github.io/learn_rsa/](https://codianz.github.io/learn_rsa/)
